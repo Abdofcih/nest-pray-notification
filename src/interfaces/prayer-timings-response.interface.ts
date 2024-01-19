@@ -1,0 +1,3 @@
+interface PrayerTimingsResponse {
+  timings: PrayerTimings;
+}
